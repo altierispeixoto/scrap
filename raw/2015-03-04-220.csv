@@ -1,0 +1,41 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,FINANC ALFA S.A. CFI,1.63,21.46,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+2,BCO ALFA S.A.,1.67,21.91,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+3,KIRTON BANK,1.69,22.21,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+4,CAIXA ECONOMICA FEDERAL,1.69,22.25,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+5,BRB - CFI S/A,1.73,22.87,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+6,BCO BANESTES S.A.,1.74,22.93,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+7,BCO BRADESCO S.A.,1.77,23.43,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+8,BCO DO BRASIL S.A.,1.78,23.61,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+9,BANCOOB,1.78,23.63,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+10,MERCANTIL BRASIL FIN S.A. CFI,1.79,23.76,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+11,BCO SANTANDER (BRASIL) S.A.,1.81,24.02,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+12,BCO SAFRA S.A.,1.84,24.39,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+13,BCO MERCANTIL DO BRASIL S.A.,1.85,24.67,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+14,BCO BARIGUI INV FIN S/A,1.86,24.77,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+15,BCO ARBI S.A.,1.88,25.04,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+16,BRB - BCO DE BRASILIA S.A.,1.9,25.41,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+17,PARANA BCO S.A.,1.91,25.44,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+18,BCO DO EST. DE SE S.A.,1.93,25.73,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+19,BCO BMG S.A.,1.94,25.88,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+20,SANTINVEST S.A. - CFI,1.95,26.12,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+21,BANCO PAN,2.04,27.44,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+22,BANCO INTER,2.04,27.49,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+23,BCO BRADESCO FINANC. S.A.,2.08,28.03,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+24,BCO CETELEM S.A.,2.12,28.56,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+25,BCO CCB BRASIL S.A.,2.12,28.57,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+26,BCO DO ESTADO DO RS S.A.,2.12,28.6,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+27,BCO DAYCOVAL S.A,2.12,28.6,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+28,BCO VOTORANTIM S.A.,2.16,29.17,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+29,BANCO ITAÚ CONSIGNADO S.A.,2.17,29.34,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+30,BCO BS2 S.A.,2.18,29.5,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+31,ITAÚ UNIBANCO BM S.A.,2.18,29.54,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+32,BV FINANCEIRA S.A. CFI,2.2,29.77,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+33,BCO INDUSTRIAL DO BRASIL S.A.,2.46,33.89,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+34,BCO LUSO BRASILEIRO S.A.,2.69,37.47,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+35,CCB BRASIL S.A. - CFI,2.72,38.02,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+36,BCO OLÉ BONSUCESSO CONSIGNADO S.A.,2.89,40.73,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+37,SOCINAL S.A. CFI,3.54,51.87,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+38,BIORC FINANCEIRA - CFI S.A.,3.86,57.47,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+39,FACTA S.A. CFI,5.26,84.94,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado
+40,PORTOCRED S.A. - CFI,5.96,100.29,220,2015-03-04,04/03/2015 a 10/03/2015,Crédito pessoal consignado público,Pré-fixado

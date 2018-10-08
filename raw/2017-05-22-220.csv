@@ -1,0 +1,35 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BCO DO NORDESTE DO BRASIL S.A.,0.06,0.74,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+2,BCO ALFA S.A.,1.6,20.94,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+3,BCO SAFRA S.A.,1.67,22.01,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+4,FINANC ALFA S.A. CFI,1.67,22.05,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+5,BCO SANTANDER (BRASIL) S.A.,1.75,23.19,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+6,BCO DO ESTADO DO RS S.A.,1.84,24.41,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+7,BANCOOB,1.87,24.82,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+8,BCO BARIGUI INV FIN S/A,1.87,24.88,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+9,BRB - CFI S/A,1.88,24.98,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+10,BANCO INTER,1.89,25.19,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+11,BANCO ITAÚ CONSIGNADO S.A.,1.89,25.2,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+12,BANCO PAN,1.9,25.35,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+13,BCO BRADESCO S.A.,1.9,25.4,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+14,BCO DO BRASIL S.A.,1.93,25.76,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+15,CAIXA ECONOMICA FEDERAL,1.94,25.96,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+16,BCO BRADESCO FINANC. S.A.,1.99,26.6,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+17,BCO MERCANTIL DO BRASIL S.A.,2.0,26.82,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+18,PARANA BCO S.A.,2.0,26.86,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+19,BCO OLÉ BONSUCESSO CONSIGNADO S.A.,2.01,27.0,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+20,BCO ARBI S.A.,2.03,27.2,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+21,BCO CCB BRASIL S.A.,2.04,27.38,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+22,BRB - BCO DE BRASILIA S.A.,2.07,27.8,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+23,BCO CETELEM S.A.,2.13,28.83,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+24,BCO VOTORANTIM S.A.,2.14,28.93,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+25,BCO DAYCOVAL S.A,2.18,29.47,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+26,BCO DO EST. DE SE S.A.,2.29,31.24,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+27,SANTINVEST S.A. - CFI,2.3,31.36,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+28,BCO DO EST. DO PA S.A.,2.31,31.45,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+29,BCO INDUSTRIAL DO BRASIL S.A.,2.52,34.72,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+30,CCB BRASIL S.A. - CFI,2.68,37.34,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+31,ITAÚ UNIBANCO BM S.A.,2.73,38.17,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+32,SOCINAL S.A. CFI,3.53,51.72,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+33,FACTA S.A. CFI,5.2,83.64,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado
+34,PORTOCRED S.A. - CFI,5.5,90.2,220,2017-05-22,22/05/2017 a 26/05/2017,Crédito pessoal consignado público,Pré-fixado

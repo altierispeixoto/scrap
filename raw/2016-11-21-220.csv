@@ -1,0 +1,35 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BCO ALFA S.A.,1.69,22.3,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+2,BCO SANTANDER (BRASIL) S.A.,1.73,22.92,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+3,FINANC ALFA S.A. CFI,1.78,23.54,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+4,BRB - CFI S/A,1.85,24.58,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+5,BCO BANESTES S.A.,1.88,25.08,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+6,BANCOOB,1.89,25.2,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+7,BCO SAFRA S.A.,1.9,25.35,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+8,BCO BRADESCO S.A.,1.92,25.63,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+9,CAIXA ECONOMICA FEDERAL,1.94,25.87,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+10,BCO BARIGUI INV FIN S/A,1.96,26.18,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+11,BCO ARBI S.A.,1.97,26.41,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+12,PARANA BCO S.A.,1.99,26.68,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+13,BANCO INTER,1.99,26.72,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+14,BRB - BCO DE BRASILIA S.A.,2.02,27.11,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+15,BANCO ITAÚ CONSIGNADO S.A.,2.05,27.62,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+16,BCO DO BRASIL S.A.,2.06,27.79,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+17,BCO DO ESTADO DO RS S.A.,2.1,28.25,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+18,BANCO PAN,2.14,28.99,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+19,BCO CCB BRASIL S.A.,2.18,29.49,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+20,BCO BRADESCO FINANC. S.A.,2.18,29.49,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+21,BCO VOTORANTIM S.A.,2.21,30.01,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+22,BCO CETELEM S.A.,2.22,30.1,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+23,BCO DO EST. DE SE S.A.,2.23,30.31,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+24,BCO DAYCOVAL S.A,2.24,30.47,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+25,BCO DO EST. DO PA S.A.,2.24,30.5,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+26,SANTINVEST S.A. - CFI,2.24,30.5,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+27,BCO MERCANTIL DO BRASIL S.A.,2.27,30.94,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+28,BCO BS2 S.A.,2.28,31.07,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+29,BCO INDUSTRIAL DO BRASIL S.A.,2.4,32.96,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+30,CCB BRASIL S.A. - CFI,2.68,37.34,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+31,ITAÚ UNIBANCO BM S.A.,2.69,37.5,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+32,SOCINAL S.A. CFI,3.54,51.76,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+33,PORTOCRED S.A. - CFI,4.8,75.5,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado
+34,FACTA S.A. CFI,6.0,101.29,220,2016-11-21,21/11/2016 a 25/11/2016,Crédito pessoal consignado público,Pré-fixado

@@ -1,0 +1,36 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BANCOOB,1.57,20.54,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+2,BCO ALFA S.A.,1.76,23.3,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+3,BRB - CFI S/A,1.8,23.92,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+4,FINANC ALFA S.A. CFI,1.81,23.96,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+5,BCO SAFRA S.A.,1.82,24.16,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+6,BCO SANTANDER (BRASIL) S.A.,1.88,25.03,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+7,BCO ARBI S.A.,1.88,25.03,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+8,BCO BANESTES S.A.,1.9,25.3,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+9,CAIXA ECONOMICA FEDERAL,1.91,25.45,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+10,BCO BRADESCO S.A.,1.92,25.7,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+11,BCO BARIGUI INV FIN S/A,1.97,26.35,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+12,PARANA BCO S.A.,2.0,26.83,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+13,BRB - BCO DE BRASILIA S.A.,2.02,27.1,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+14,BANCO ITAÚ CONSIGNADO S.A.,2.07,27.92,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+15,BCO VOTORANTIM S.A.,2.08,28.07,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+16,BCO DO BRASIL S.A.,2.09,28.12,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+17,BCO BS2 S.A.,2.09,28.23,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+18,BCO DO ESTADO DO RS S.A.,2.14,28.9,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+19,BCO CCB BRASIL S.A.,2.16,29.28,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+20,BANCO PAN,2.16,29.28,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+21,BCO BRADESCO FINANC. S.A.,2.19,29.71,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+22,SANTINVEST S.A. - CFI,2.22,30.11,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+23,BCO OLÉ BONSUCESSO CONSIGNADO S.A.,2.24,30.37,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+24,BCO CETELEM S.A.,2.25,30.6,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+25,BCO DO EST. DO PA S.A.,2.25,30.64,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+26,BCO DO EST. DE SE S.A.,2.27,30.84,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+27,BCO MERCANTIL DO BRASIL S.A.,2.29,31.22,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+28,BCO DAYCOVAL S.A,2.39,32.79,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+29,BCO INDUSTRIAL DO BRASIL S.A.,2.47,34.03,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+30,CCB BRASIL S.A. - CFI,2.52,34.87,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+31,PARATI - CFI S.A.,2.62,36.46,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+32,ITAÚ UNIBANCO BM S.A.,2.65,36.91,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+33,BCO LUSO BRASILEIRO S.A.,2.68,37.36,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+34,SOCINAL S.A. CFI,3.56,52.08,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado
+35,PORTOCRED S.A. - CFI,5.63,92.98,220,2016-10-11,11/10/2016 a 18/10/2016,Crédito pessoal consignado público,Pré-fixado

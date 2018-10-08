@@ -1,0 +1,35 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,CAIXA ECONOMICA FEDERAL,1.59,20.84,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+2,BCO DO ESTADO DO RS S.A.,1.66,21.87,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+3,BCO BANESTES S.A.,1.68,22.14,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+4,BCO DO BRASIL S.A.,1.69,22.31,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+5,BCO FIBRA S.A.,1.77,23.38,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+6,BANCOOB,1.84,24.43,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+7,BCO SAFRA S.A.,1.88,25.09,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+8,BCO CETELEM S.A.,1.92,25.57,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+9,BANCO BRADESCARD,1.94,25.98,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+10,CREDIARE CFI S.A.,1.94,25.99,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+11,PARANA BCO S.A.,1.95,26.06,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+12,BCO CITIBANK S.A.,1.97,26.36,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+13,BCO BARIGUI INV FIN S/A,2.01,26.91,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+14,GAZINCRED S.A. SCFI,2.02,27.1,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+15,BCO FICSA S.A.,2.05,27.55,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+16,KIRTON BANK,2.06,27.68,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+17,BCO VOTORANTIM S.A.,2.06,27.71,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+18,LECCA CFI S.A.,2.06,27.71,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+19,CCB BRASIL S.A. - CFI,2.06,27.73,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+20,BCO BRADESCO FINANC. S.A.,2.07,27.83,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+21,BCO SANTANDER (BRASIL) S.A.,2.07,27.84,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+22,BANCO CIFRA,2.07,27.87,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+23,BANCO INTER,2.08,28.04,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+24,BCO BMG S.A.,2.09,28.1,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+25,BCO INDUSTRIAL DO BRASIL S.A.,2.12,28.56,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+26,BCO BS2 S.A.,2.12,28.61,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+27,BCO CACIQUE S.A.,2.12,28.65,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+28,BCO MERCANTIL DO BRASIL S.A.,2.13,28.72,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+29,ITAÚ UNIBANCO BM S.A.,2.15,29.14,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+30,BCO DAYCOVAL S.A,2.15,29.14,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+31,MERCANTIL BRASIL FIN S.A. CFI,2.16,29.24,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+32,PARATI - CFI S.A.,2.22,30.09,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+33,BCO AGIBANK S.A.,2.24,30.45,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado
+34,BCO BRADESCO S.A.,2.43,33.36,218,2012-11-07,07/11/2012 a 13/11/2012,Crédito consignado INSS,Pré-fixado

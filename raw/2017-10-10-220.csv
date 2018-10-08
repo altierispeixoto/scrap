@@ -1,0 +1,39 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BCO DO NORDESTE DO BRASIL S.A.,0.07,0.81,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+2,BCO ALFA S.A.,1.51,19.7,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+3,FINANC ALFA S.A. CFI,1.58,20.73,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+4,BCO SANTANDER (BRASIL) S.A.,1.69,22.23,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+5,BCO DO ESTADO DO RS S.A.,1.81,24.03,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+6,BCO BRADESCO S.A.,1.82,24.2,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+7,BCO BARIGUI INV FIN S/A,1.83,24.32,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+8,BANCOOB,1.83,24.35,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+9,BRB - BCO DE BRASILIA S.A.,1.84,24.47,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+10,BANCO ITAÚ CONSIGNADO S.A.,1.85,24.56,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+11,BCO BRADESCO FINANC. S.A.,1.85,24.61,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+12,BCO DO BRASIL S.A.,1.88,24.98,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+13,BCO BANESTES S.A.,1.88,25.09,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+14,BANCO INTER,1.89,25.13,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+15,BRB - CFI S/A,1.92,25.61,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+16,BCO SAFRA S.A.,1.93,25.71,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+17,BANCO PAN,1.93,25.71,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+18,PARANA BCO S.A.,1.97,26.35,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+19,BCO CCB BRASIL S.A.,1.98,26.51,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+20,CAIXA ECONOMICA FEDERAL,1.99,26.7,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+21,BCO MERCANTIL DO BRASIL S.A.,2.0,26.82,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+22,BCO ARBI S.A.,2.0,26.86,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+23,BCO CETELEM S.A.,2.01,27.02,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+24,BCO OLÉ BONSUCESSO CONSIGNADO S.A.,2.03,27.24,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+25,SENFF S.A. - CFI,2.04,27.4,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+26,BCO DAYCOVAL S.A,2.07,27.82,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+27,BCO VOTORANTIM S.A.,2.08,28.02,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+28,BCO BMG S.A.,2.13,28.81,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+29,SANTINVEST S.A. - CFI,2.19,29.64,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+30,BCO DO EST. DE SE S.A.,2.23,30.3,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+31,CCB BRASIL S.A. - CFI,2.28,31.13,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+32,BCO DO EST. DO PA S.A.,2.3,31.41,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+33,BCO INDUSTRIAL DO BRASIL S.A.,2.4,32.86,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+34,BCO LUSO BRASILEIRO S.A.,2.66,37.09,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+35,ITAÚ UNIBANCO BM S.A.,2.74,38.34,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+36,SOCINAL S.A. CFI,3.54,51.83,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+37,FACTA S.A. CFI,5.24,84.55,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado
+38,PORTOCRED S.A. - CFI,5.31,85.99,220,2017-10-10,10/10/2017 a 17/10/2017,Crédito pessoal consignado público,Pré-fixado

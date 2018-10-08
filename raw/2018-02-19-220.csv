@@ -1,0 +1,38 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BCO ALFA S.A.,1.45,18.83,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+2,FINANC ALFA S.A. CFI,1.56,20.38,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+3,BCO A.J. RENNER S.A.,1.59,20.89,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+4,BCO BRADESCO S.A.,1.65,21.67,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+5,BCO SANTANDER (BRASIL) S.A.,1.68,22.2,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+6,BCO BARIGUI INV FIN S/A,1.72,22.73,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+7,BCO DO ESTADO DO RS S.A.,1.75,23.11,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+8,BRB - CFI S/A,1.77,23.42,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+9,BANCO INTER,1.77,23.43,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+10,BCO DO NORDESTE DO BRASIL S.A.,1.8,23.93,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+11,BANCOOB,1.81,24.05,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+12,BCO ARBI S.A.,1.82,24.17,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+13,BCO BANESTES S.A.,1.83,24.35,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+14,BANCO ITAÚ CONSIGNADO S.A.,1.84,24.43,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+15,BCO BRADESCO FINANC. S.A.,1.84,24.53,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+16,BCO DO BRASIL S.A.,1.84,24.53,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+17,BCO OLÉ BONSUCESSO CONSIGNADO S.A.,1.86,24.74,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+18,BANCO PAN,1.93,25.74,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+19,BCO SAFRA S.A.,1.94,25.9,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+20,BCO CCB BRASIL S.A.,1.95,26.02,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+21,CAIXA ECONOMICA FEDERAL,1.95,26.07,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+22,PARANA BCO S.A.,1.95,26.08,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+23,BCO CETELEM S.A.,1.96,26.17,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+24,BRB - BCO DE BRASILIA S.A.,2.01,26.97,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+25,BCO VOTORANTIM S.A.,2.03,27.25,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+26,SANTINVEST S.A. - CFI,2.04,27.38,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+27,BCO MERCANTIL DO BRASIL S.A.,2.06,27.75,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+28,BCO DAYCOVAL S.A,2.07,27.87,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+29,SENFF S.A. - CFI,2.18,29.5,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+30,PARATI - CFI S.A.,2.25,30.59,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+31,BCO DO EST. DE SE S.A.,2.29,31.26,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+32,BCO DO EST. DO PA S.A.,2.3,31.36,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+33,BCO INDUSTRIAL DO BRASIL S.A.,2.42,33.24,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+34,ITAÚ UNIBANCO BM S.A.,2.46,33.9,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+35,SOCINAL S.A. CFI,3.57,52.39,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+36,FACTA S.A. CFI,5.03,80.15,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado
+37,PORTOCRED S.A. - CFI,5.32,86.18,220,2018-02-19,19/02/2018 a 23/02/2018,Crédito pessoal consignado público,Pré-fixado

@@ -65,9 +65,11 @@ class ScrapBase:
 
         status_code = 0
         cnt_blacklist = 0
+        response = None
         while status_code != 200:
-            proxy = next(self.proxy_pool)
 
+            proxy = next(self.proxy_pool)
+            print("Got {}".format(proxy))
             while proxy in self.blacklist:
                 proxy = next(self.proxy_pool)
                 cnt_blacklist += 1
@@ -76,24 +78,29 @@ class ScrapBase:
                     cnt_blacklist = 0
 
             header = self.random_headers()
-            response, proxy = self.req(proxy, header)
-            if response.status_code != 200:
+            status_code, response, proxy = self.req(proxy, header)
+
+            if status_code != 200:
                 self.blacklist.add(proxy)
             else:
                 self.whitelist.add(proxy)
-                return response
+
+        return response
 
 
     def req(self, proxy, header):
+        response = None
         try:
+
             print("tentando com proxy {}".format(proxy))
-            response = requests.get(self.url, headers=header, proxies={"https": proxy})
+            response = requests.get(self.url, headers=header, proxies={"https": proxy}, timeout=20)
             status_code = response.status_code
             print("proxy {} retornou status code {}".format(proxy, status_code))
+
         except Exception as err:
             print(err)
-            return response, proxy
-        return response, proxy
+            return 0, response, proxy
+        return status_code, response, proxy
 
 
 # url = 'https://www.bcb.gov.br/api/relatorio/pt-br/txjuros?path=conteudo/txcred/Reports/TaxasCredito-Consolidadas-porTaxasAnuais-Historico.rdl&parametros=undefined'

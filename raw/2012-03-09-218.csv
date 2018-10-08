@@ -1,0 +1,39 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BCO DO ESTADO DO RS S.A.,1.59,20.79,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+2,LECCA CFI S.A.,1.93,25.82,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+3,FINANC ALFA S.A. CFI,1.94,25.88,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+4,BCO BANESTES S.A.,2.03,27.31,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+5,BCO DO BRASIL S.A.,2.06,27.72,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+6,BCO FIBRA S.A.,2.07,27.82,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+7,BCO CRUZEIRO DO SUL S.A.,2.09,28.14,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+8,BCO ARBI S.A.,2.14,28.91,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+9,BANCO BRADESCARD,2.14,28.98,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+10,BCO CETELEM S.A.,2.15,29.12,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+11,BCO BARIGUI INV FIN S/A,2.16,29.19,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+12,CAIXA ECONOMICA FEDERAL,2.16,29.27,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+13,CREDIARE CFI S.A.,2.19,29.74,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+14,BCO CACIQUE S.A.,2.21,29.92,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+15,BCO DAYCOVAL S.A,2.21,29.98,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+16,KIRTON BANK,2.21,30.04,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+17,BCO SAFRA S.A.,2.22,30.08,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+18,BANCOOB,2.24,30.39,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+19,BCO CITIBANK S.A.,2.25,30.6,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+20,CCB BRASIL S.A. - CFI,2.26,30.79,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+21,BCO FICSA S.A.,2.27,30.86,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+22,BCO VOTORANTIM S.A.,2.27,30.93,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+23,BANCO INTER,2.27,30.98,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+24,BCO BMG S.A.,2.29,31.21,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+25,BANCO CIFRA,2.29,31.27,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+26,BCV,2.32,31.67,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+27,PARANA BCO S.A.,2.33,31.76,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+28,BANCO ORIGINAL,2.33,31.78,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+29,BCO BS2 S.A.,2.33,31.83,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+30,MERCANTIL BRASIL FIN S.A. CFI,2.34,31.94,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+31,BCO MERCANTIL DO BRASIL S.A.,2.35,32.11,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+32,BCO SANTANDER (BRASIL) S.A.,2.35,32.21,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+33,BCO BRADESCO FINANC. S.A.,2.38,32.57,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+34,BCO AGIBANK S.A.,2.39,32.7,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+35,BCO INDUSTRIAL DO BRASIL S.A.,2.4,32.85,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+36,ITAÚ UNIBANCO BM S.A.,2.42,33.29,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+37,PARATI - CFI S.A.,2.55,35.29,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado
+38,BCO BRADESCO S.A.,3.35,48.43,218,2012-03-09,09/03/2012 a 15/03/2012,Crédito consignado INSS,Pré-fixado

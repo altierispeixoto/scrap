@@ -1,0 +1,36 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BCO DO NORDESTE DO BRASIL S.A.,0.07,0.82,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+2,BCO ALFA S.A.,1.51,19.63,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+3,FINANC ALFA S.A. CFI,1.61,21.14,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+4,BCO SANTANDER (BRASIL) S.A.,1.68,22.05,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+5,BCO BRADESCO S.A.,1.67,22.05,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+6,BCO DO ESTADO DO RS S.A.,1.78,23.51,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+7,BANCOOB,1.78,23.62,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+8,BCO SAFRA S.A.,1.81,23.94,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+9,BANCO INTER,1.82,24.12,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+10,BCO OLÉ BONSUCESSO CONSIGNADO S.A.,1.83,24.28,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+11,BCO BANESTES S.A.,1.83,24.28,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+12,BCO BARIGUI INV FIN S/A,1.83,24.34,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+13,BCO BRADESCO FINANC. S.A.,1.84,24.5,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+14,BANCO ITAÚ CONSIGNADO S.A.,1.85,24.57,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+15,BCO DO BRASIL S.A.,1.86,24.8,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+16,BRB - CFI S/A,1.88,25.08,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+17,BCO ARBI S.A.,1.91,25.53,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+18,PARANA BCO S.A.,1.92,25.64,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+19,CAIXA ECONOMICA FEDERAL,1.97,26.39,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+20,BANCO PAN,1.98,26.55,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+21,BCO CCB BRASIL S.A.,2.0,26.89,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+22,BRB - BCO DE BRASILIA S.A.,2.02,27.14,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+23,BCO BMG S.A.,2.03,27.3,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+24,BCO VOTORANTIM S.A.,2.03,27.31,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+25,BCO CETELEM S.A.,2.03,27.31,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+26,BCO MERCANTIL DO BRASIL S.A.,2.06,27.75,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+27,BCO DAYCOVAL S.A,2.08,27.96,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+28,BCO DO EST. DE SE S.A.,2.22,30.2,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+29,SANTINVEST S.A. - CFI,2.26,30.76,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+30,BCO DO EST. DO PA S.A.,2.3,31.44,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+31,ITAÚ UNIBANCO BM S.A.,2.46,33.92,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+32,BCO INDUSTRIAL DO BRASIL S.A.,2.51,34.7,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+33,PARATI - CFI S.A.,2.54,35.11,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+34,SOCINAL S.A. CFI,3.53,51.71,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado
+35,FACTA S.A. CFI,5.24,84.51,220,2018-01-03,03/01/2018 a 09/01/2018,Crédito pessoal consignado público,Pré-fixado

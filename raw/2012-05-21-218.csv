@@ -1,0 +1,39 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BCO DO ESTADO DO RS S.A.,1.33,17.23,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+2,FINANC ALFA S.A. CFI,1.74,22.96,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+3,BCO SAFRA S.A.,1.79,23.68,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+4,CAIXA ECONOMICA FEDERAL,1.79,23.76,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+5,BCO ARBI S.A.,1.82,24.18,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+6,BCO DO BRASIL S.A.,1.83,24.24,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+7,BANCOOB,1.84,24.5,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+8,LECCA CFI S.A.,1.95,26.12,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+9,BCO FIBRA S.A.,1.97,26.32,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+10,BCO CETELEM S.A.,1.99,26.71,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+11,BCO BANESTES S.A.,2.01,26.92,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+12,BCO BARIGUI INV FIN S/A,2.08,28.08,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+13,BANCO BRADESCARD,2.11,28.43,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+14,CCB BRASIL S.A. - CFI,2.11,28.53,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+15,BCO CITIBANK S.A.,2.12,28.59,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+16,BCO BRADESCO FINANC. S.A.,2.13,28.79,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+17,BANCO ORIGINAL,2.14,28.94,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+18,BANCO CIFRA,2.15,29.08,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+19,CREDIARE CFI S.A.,2.15,29.11,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+20,BCO CRUZEIRO DO SUL S.A.,2.16,29.26,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+21,KIRTON BANK,2.18,29.53,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+22,MERCANTIL BRASIL FIN S.A. CFI,2.18,29.56,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+23,BCO MERCANTIL DO BRASIL S.A.,2.19,29.75,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+24,BCO CACIQUE S.A.,2.2,29.82,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+25,PARANA BCO S.A.,2.2,29.82,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+26,BCO VOTORANTIM S.A.,2.2,29.85,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+27,BCO FICSA S.A.,2.2,29.86,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+28,BANCO INTER,2.2,29.87,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+29,BCO BMG S.A.,2.22,30.13,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+30,BCO DAYCOVAL S.A,2.23,30.25,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+31,ITAÚ UNIBANCO BM S.A.,2.26,30.8,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+32,BCO BS2 S.A.,2.26,30.83,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+33,BCV,2.28,31.11,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+34,BCO INDUSTRIAL DO BRASIL S.A.,2.3,31.43,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+35,BCO SANTANDER (BRASIL) S.A.,2.33,31.87,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+36,PARATI - CFI S.A.,2.37,32.48,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+37,BCO AGIBANK S.A.,2.45,33.63,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado
+38,BCO BRADESCO S.A.,2.68,37.29,218,2012-05-21,21/05/2012 a 25/05/2012,Crédito consignado INSS,Pré-fixado

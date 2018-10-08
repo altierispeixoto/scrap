@@ -29,8 +29,18 @@ class BacenScraper():
         url = 'https://www.bcb.gov.br/api/relatorio/pt-br/txjuros?path=conteudo/txcred/Reports/TaxasCredito-Consolidadas-porTaxasAnuais-Historico.rdl&parametros=undefined'
 
         scrap = ScrapBase(url)
-        response_call = scrap.url_call()
-        response = response_call.json()
+
+        status_code = 0
+        response = None
+        while status_code != 200:
+            response_call = scrap.url_call()
+            status_code = response_call.status_code
+            try:
+                response = response_call.json()
+            except Exception as exp:
+                status_code = 0
+                self.log.error(exp)
+
         date_list = []
         try:
             for i in response['parametros'][3]['ValidValues']:
@@ -53,8 +63,18 @@ class BacenScraper():
 
                     try:
                         scrap = ScrapBase(url)
-                        response_call = scrap.url_call()
-                        response = response_call.json()
+
+                        status_code = 0
+                        response = None
+                        while status_code != 200:
+                            response_call = scrap.url_call()
+                            status_code = response_call.status_code
+                            try:
+                                response = response_call.json()
+                            except Exception as exp:
+                                status_code = 0
+                                self.log.error(exp)
+
                         df_raw = pd.read_html(response['conteudo'], thousands=' ')
                         dataset = self.clean_dataset(code, df_raw ,i )
 
@@ -133,5 +153,7 @@ class BacenScraper():
 
 
 
-# scrap.run_scrap(".", "220", "csv", '220.csv','DELTA')  # cdmodalidade = "220"  # Crédito consignado Público
-# scrap.run_scrap("C://workspace", "218", "csv",'218.csv','DELTA')  # cdmodalidade = "218"  # Crédito consignado INSS
+scp = BacenScraper()
+codes = ['218', '220'] # 218 INSS, 220 Publico
+filepath = '/home/altieris/git_repositories/ga-feat-sel/src/scrap_bacen/data'
+scp.run_scrap(codes, filepath, '2012-06-01')

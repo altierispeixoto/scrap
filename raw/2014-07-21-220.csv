@@ -1,0 +1,42 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BCO ALFA S.A.,1.5,19.54,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+2,CAIXA ECONOMICA FEDERAL,1.53,19.96,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+3,FINANC ALFA S.A. CFI,1.57,20.5,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+4,BRB - CFI S/A,1.6,21.02,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+5,BCO BRADESCO S.A.,1.66,21.9,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+6,BCO SANTANDER (BRASIL) S.A.,1.68,22.09,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+7,BCO BANESTES S.A.,1.68,22.18,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+8,MERCANTIL BRASIL FIN S.A. CFI,1.69,22.2,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+9,SANTINVEST S.A. - CFI,1.69,22.2,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+10,KIRTON BANK,1.69,22.28,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+11,BCO ARBI S.A.,1.7,22.37,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+12,BCO SAFRA S.A.,1.71,22.6,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+13,BANCOOB,1.73,22.91,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+14,BCO DO BRASIL S.A.,1.74,23.07,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+15,BCO MERCANTIL DO BRASIL S.A.,1.75,23.19,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+16,BCO BARIGUI INV FIN S/A,1.82,24.19,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+17,BANCO INTER,1.83,24.29,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+18,PARANA BCO S.A.,1.85,24.61,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+19,BCO DO EST. DO PA S.A.,1.97,26.43,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+20,BCO DO ESTADO DO RS S.A.,1.98,26.59,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+21,BCO BRADESCO FINANC. S.A.,2.0,26.88,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+22,BANCO PAN,2.01,26.96,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+23,BRB - BCO DE BRASILIA S.A.,2.02,27.07,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+24,BCO CCB BRASIL S.A.,2.02,27.12,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+25,ITAÚ UNIBANCO BM S.A.,2.08,28.07,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+26,BANCO ITAÚ CONSIGNADO S.A.,2.11,28.54,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+27,BCO DAYCOVAL S.A,2.13,28.73,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+28,BCO VOTORANTIM S.A.,2.14,28.92,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+29,BV FINANCEIRA S.A. CFI,2.14,28.99,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+30,BCO DO EST. DE SE S.A.,2.15,29.09,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+31,BCO BMG S.A.,2.15,29.12,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+32,BCO CETELEM S.A.,2.21,30.03,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+33,BCO BS2 S.A.,2.38,32.55,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+34,BCO INDUSTRIAL DO BRASIL S.A.,2.42,33.26,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+35,ESTRELA MINEIRA,2.62,36.37,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+36,BIORC FINANCEIRA - CFI S.A.,2.71,37.85,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+37,BCO LUSO BRASILEIRO S.A.,2.85,40.13,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+38,CCB BRASIL S.A. - CFI,2.87,40.45,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+39,BCO AGIBANK S.A.,3.13,44.67,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+40,FACTA S.A. CFI,5.42,88.46,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado
+41,PORTOCRED S.A. - CFI,6.12,103.96,220,2014-07-21,21/07/2014 a 25/07/2014,Crédito pessoal consignado público,Pré-fixado

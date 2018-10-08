@@ -1,0 +1,36 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BCO ALFA S.A.,1.67,21.93,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+2,BCO SAFRA S.A.,1.74,22.99,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+3,FINANC ALFA S.A. CFI,1.77,23.39,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+4,BCO SANTANDER (BRASIL) S.A.,1.78,23.64,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+5,BANCOOB,1.85,24.58,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+6,BCO BARIGUI INV FIN S/A,1.87,24.94,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+7,BRB - CFI S/A,1.91,25.44,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+8,BCO BANESTES S.A.,1.94,25.91,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+9,BCO BRADESCO S.A.,1.95,26.05,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+10,BCO CCB BRASIL S.A.,1.98,26.48,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+11,CAIXA ECONOMICA FEDERAL,1.98,26.5,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+12,BCO ARBI S.A.,1.98,26.52,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+13,BCO DO ESTADO DO RS S.A.,2.01,26.89,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+14,BANCO ITAÚ CONSIGNADO S.A.,2.02,27.11,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+15,BCO DO BRASIL S.A.,2.03,27.3,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+16,BCO BRADESCO FINANC. S.A.,2.04,27.4,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+17,BRB - BCO DE BRASILIA S.A.,2.06,27.64,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+18,PARANA BCO S.A.,2.06,27.66,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+19,BCO BMG S.A.,2.06,27.71,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+20,BANCO INTER,2.06,27.78,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+21,BANCO PAN,2.12,28.55,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+22,SENFF S.A. - CFI,2.13,28.83,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+23,BCO VOTORANTIM S.A.,2.2,29.86,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+24,BCO OLÉ BONSUCESSO CONSIGNADO S.A.,2.23,30.23,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+25,BCO DO EST. DE SE S.A.,2.24,30.44,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+26,SANTINVEST S.A. - CFI,2.28,31.06,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+27,BCO MERCANTIL DO BRASIL S.A.,2.29,31.23,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+28,BCO CETELEM S.A.,2.31,31.45,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+29,BCO DO EST. DO PA S.A.,2.34,31.92,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+30,BCO INDUSTRIAL DO BRASIL S.A.,2.57,35.59,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+31,BCO DAYCOVAL S.A,2.59,35.83,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+32,ITAÚ UNIBANCO BM S.A.,2.67,37.22,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+33,CCB BRASIL S.A. - CFI,2.76,38.68,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+34,FACTA S.A. CFI,5.09,81.51,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado
+35,PORTOCRED S.A. - CFI,5.13,82.32,220,2017-03-15,15/03/2017 a 21/03/2017,Crédito pessoal consignado público,Pré-fixado

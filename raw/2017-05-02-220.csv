@@ -1,0 +1,35 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BCO DO NORDESTE DO BRASIL S.A.,0.06,0.75,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+2,BCO SAFRA S.A.,1.6,21.04,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+3,BCO ALFA S.A.,1.65,21.71,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+4,FINANC ALFA S.A. CFI,1.69,22.24,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+5,BCO SANTANDER (BRASIL) S.A.,1.71,22.58,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+6,BCO DO ESTADO DO RS S.A.,1.86,24.7,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+7,BCO BRADESCO S.A.,1.89,25.18,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+8,BRB - CFI S/A,1.89,25.21,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+9,BANCO ITAÚ CONSIGNADO S.A.,1.91,25.52,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+10,BANCOOB,1.93,25.72,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+11,BCO ARBI S.A.,1.93,25.78,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+12,BCO BARIGUI INV FIN S/A,1.93,25.84,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+13,BCO DO BRASIL S.A.,1.96,26.21,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+14,BANCO PAN,1.97,26.39,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+15,CAIXA ECONOMICA FEDERAL,1.97,26.4,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+16,BCO MERCANTIL DO BRASIL S.A.,2.0,26.78,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+17,BCO BRADESCO FINANC. S.A.,2.0,26.82,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+18,PARANA BCO S.A.,2.05,27.53,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+19,BCO CCB BRASIL S.A.,2.06,27.74,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+20,BRB - BCO DE BRASILIA S.A.,2.07,27.81,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+21,BCO VOTORANTIM S.A.,2.14,28.9,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+22,BCO CETELEM S.A.,2.16,29.21,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+23,BCO DAYCOVAL S.A,2.17,29.31,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+24,SANTINVEST S.A. - CFI,2.24,30.42,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+25,BCO OLÉ BONSUCESSO CONSIGNADO S.A.,2.25,30.56,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+26,BCO DO EST. DE SE S.A.,2.28,31.03,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+27,BCO DO EST. DO PA S.A.,2.35,32.09,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+28,BCO INDUSTRIAL DO BRASIL S.A.,2.53,34.96,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+29,ITAÚ UNIBANCO BM S.A.,2.58,35.74,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+30,PARATI - CFI S.A.,2.65,36.89,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+31,CCB BRASIL S.A. - CFI,2.9,40.9,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+32,SOCINAL S.A. CFI,3.54,51.89,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+33,PORTOCRED S.A. - CFI,5.05,80.52,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado
+34,FACTA S.A. CFI,5.36,87.09,220,2017-05-02,02/05/2017 a 08/05/2017,Crédito pessoal consignado público,Pré-fixado

@@ -1,0 +1,42 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BANCO SEMEAR,0.87,11.02,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+2,BRB - CFI S/A,1.35,17.4,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+3,BCO ALFA S.A.,1.38,17.94,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+4,FINANC ALFA S.A. CFI,1.43,18.63,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+5,BCO DO ESTADO DO RS S.A.,1.47,19.1,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+6,BCO BANESTES S.A.,1.48,19.3,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+7,CAIXA ECONOMICA FEDERAL,1.48,19.32,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+8,BIORC FINANCEIRA - CFI S.A.,1.58,20.72,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+9,BCO SAFRA S.A.,1.58,20.76,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+10,BCO SANTANDER (BRASIL) S.A.,1.62,21.33,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+11,BCO MERCANTIL DO BRASIL S.A.,1.65,21.69,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+12,SANTINVEST S.A. - CFI,1.67,21.97,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+13,BCO DO BRASIL S.A.,1.73,22.8,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+14,BCO BARIGUI INV FIN S/A,1.74,23.07,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+15,KIRTON BANK,1.76,23.31,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+16,BRB - BCO DE BRASILIA S.A.,1.76,23.33,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+17,BCO DO EST. DO PA S.A.,1.8,23.86,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+18,BCO FIBRA S.A.,1.81,23.98,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+19,ITAÚ UNIBANCO BM S.A.,1.86,24.82,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+20,BANCO INTER,1.87,24.85,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+21,BCO BRADESCO S.A.,1.87,24.87,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+22,BCO CETELEM S.A.,1.87,24.95,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+23,BCO BRADESCO FINANC. S.A.,1.88,25.04,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+24,BANCOOB,1.91,25.42,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+25,BCO LUSO BRASILEIRO S.A.,1.97,26.42,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+26,BCO ARBI S.A.,1.97,26.42,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+27,BCO VOTORANTIM S.A.,1.99,26.71,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+28,LECCA CFI S.A.,2.0,26.77,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+29,BCO DAYCOVAL S.A,2.07,27.86,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+30,BCO BMG S.A.,2.1,28.36,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+31,BCO CCB BRASIL S.A.,2.11,28.43,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+32,BV FINANCEIRA S.A. CFI,2.17,29.35,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+33,BCO DO EST. DE SE S.A.,2.21,30.01,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+34,BCO INDUSTRIAL DO BRASIL S.A.,2.25,30.53,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+35,BCO BS2 S.A.,2.27,30.94,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+36,BANCO ORIGINAL,2.31,31.56,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+37,BCV,2.38,32.66,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+38,BCO FICSA S.A.,2.5,34.56,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+39,ESTRELA MINEIRA,2.68,37.33,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+40,FACTA S.A. CFI,6.95,123.95,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado
+41,PORTOCRED S.A. - CFI,7.11,128.03,220,2012-12-18,18/12/2012 a 24/12/2012,Crédito pessoal consignado público,Pré-fixado

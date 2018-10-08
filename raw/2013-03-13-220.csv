@@ -1,0 +1,42 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BRB - CFI S/A,1.29,16.59,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+2,BCO ALFA S.A.,1.39,18.05,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+3,FINANC ALFA S.A. CFI,1.4,18.16,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+4,BCO MERCANTIL DO BRASIL S.A.,1.42,18.47,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+5,BCO DO ESTADO DO RS S.A.,1.49,19.37,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+6,BCO SAFRA S.A.,1.5,19.49,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+7,CAIXA ECONOMICA FEDERAL,1.54,20.05,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+8,BCO BANESTES S.A.,1.55,20.33,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+9,BCO SANTANDER (BRASIL) S.A.,1.57,20.56,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+10,SANTINVEST S.A. - CFI,1.69,22.28,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+11,BCO DO BRASIL S.A.,1.72,22.68,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+12,BCO BARIGUI INV FIN S/A,1.73,22.79,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+13,BCO ARBI S.A.,1.74,22.99,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+14,KIRTON BANK,1.74,23.0,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+15,PARANA BCO S.A.,1.76,23.3,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+16,BIORC FINANCEIRA - CFI S.A.,1.77,23.49,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+17,BCO DO EST. DO PA S.A.,1.79,23.68,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+18,BRB - BCO DE BRASILIA S.A.,1.8,23.87,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+19,ITAÚ UNIBANCO BM S.A.,1.81,24.03,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+20,BCO FIBRA S.A.,1.81,24.07,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+21,BCO BRADESCO S.A.,1.83,24.25,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+22,BCO DAYCOVAL S.A,1.83,24.27,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+23,BCO CETELEM S.A.,1.85,24.57,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+24,BCO BRADESCO FINANC. S.A.,1.9,25.33,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+25,BANCOOB,1.94,25.99,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+26,BANCO INTER,1.95,26.01,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+27,BCO VOTORANTIM S.A.,1.95,26.1,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+28,BCO LUSO BRASILEIRO S.A.,1.95,26.13,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+29,BCO CCB BRASIL S.A.,1.97,26.37,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+30,BCO INDUSTRIAL DO BRASIL S.A.,2.1,28.31,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+31,BANCO CIFRA,2.12,28.65,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+32,BCO BMG S.A.,2.12,28.68,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+33,BV FINANCEIRA S.A. CFI,2.13,28.7,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+34,BCO DO EST. DE SE S.A.,2.23,30.33,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+35,BCO BS2 S.A.,2.24,30.41,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+36,BANCO ITAÚ CONSIGNADO S.A.,2.33,31.91,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+37,SENFF S.A. - CFI,2.39,32.78,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+38,ESTRELA MINEIRA,2.65,36.84,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+39,SOCINAL S.A. CFI,3.54,51.83,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+40,PORTOCRED S.A. - CFI,7.1,127.85,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado
+41,FACTA S.A. CFI,7.4,135.55,220,2013-03-13,13/03/2013 a 19/03/2013,Crédito pessoal consignado público,Pré-fixado

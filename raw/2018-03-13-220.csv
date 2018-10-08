@@ -1,0 +1,39 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BCO ALFA S.A.,1.45,18.89,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+2,FINANC ALFA S.A. CFI,1.54,20.12,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+3,BCO A.J. RENNER S.A.,1.6,20.96,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+4,BCO SANTANDER (BRASIL) S.A.,1.68,22.11,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+5,BCO BRADESCO S.A.,1.7,22.44,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+6,BANCO INTER,1.71,22.62,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+7,BRB - CFI S/A,1.72,22.69,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+8,BCO BARIGUI INV FIN S/A,1.74,23.01,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+9,BCO DO ESTADO DO RS S.A.,1.74,23.04,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+10,BCO BRADESCO FINANC. S.A.,1.78,23.61,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+11,BCO BANESTES S.A.,1.81,23.98,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+12,BCO DO NORDESTE DO BRASIL S.A.,1.82,24.09,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+13,BCO DO BRASIL S.A.,1.82,24.18,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+14,BANCO ITAÚ CONSIGNADO S.A.,1.82,24.23,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+15,BANCOOB,1.83,24.29,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+16,BCO SAFRA S.A.,1.86,24.76,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+17,BCO OLÉ BONSUCESSO CONSIGNADO S.A.,1.87,24.85,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+18,CAIXA ECONOMICA FEDERAL,1.89,25.18,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+19,BANCO PAN,1.89,25.21,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+20,BCO CCB BRASIL S.A.,1.91,25.44,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+21,PARANA BCO S.A.,1.95,26.09,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+22,BCO ARBI S.A.,2.0,26.76,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+23,BRB - BCO DE BRASILIA S.A.,2.0,26.76,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+24,BCO CETELEM S.A.,2.01,26.93,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+25,BCO VOTORANTIM S.A.,2.02,27.08,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+26,BCO DAYCOVAL S.A,2.03,27.31,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+27,CCB BRASIL S.A. - CFI,2.05,27.58,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+28,BCO MERCANTIL DO BRASIL S.A.,2.06,27.69,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+29,SANTINVEST S.A. - CFI,2.08,28.06,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+30,BCO DO EST. DE SE S.A.,2.23,30.27,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+31,SENFF S.A. - CFI,2.31,31.53,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+32,BCO DO EST. DO PA S.A.,2.31,31.54,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+33,ITAÚ UNIBANCO BM S.A.,2.34,32.04,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+34,BCO INDUSTRIAL DO BRASIL S.A.,2.37,32.39,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+35,BCO LUSO BRASILEIRO S.A.,2.66,36.97,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+36,SOCINAL S.A. CFI,3.55,52.01,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+37,FACTA S.A. CFI,5.02,79.97,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado
+38,PORTOCRED S.A. - CFI,5.35,86.81,220,2018-03-13,13/03/2018 a 19/03/2018,Crédito pessoal consignado público,Pré-fixado

@@ -1,0 +1,33 @@
+posicao,instituicao,taxa_am,taxa_aa,codigo_modalidade,periodo_inicial,periodo_semana,modalidade,tipo_encargo
+1,BANCOOB,1.78,23.61,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+2,BRB - BCO DE BRASILIA S.A.,1.85,24.56,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+3,BCO BANESTES S.A.,1.89,25.19,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+4,CREDIARE CFI S.A.,1.97,26.32,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+5,BANCO BRADESCARD,2.0,26.75,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+6,BCO ARBI S.A.,2.01,26.98,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+7,CAIXA ECONOMICA FEDERAL,2.03,27.31,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+8,GAZINCRED S.A. SCFI,2.03,27.34,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+9,BANCO CIFRA,2.05,27.51,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+10,BCO SAFRA S.A.,2.06,27.65,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+11,CCB BRASIL S.A. - CFI,2.06,27.79,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+12,BCO DO ESTADO DO RS S.A.,2.07,27.81,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+13,KIRTON BANK,2.08,27.96,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+14,BCO BMG S.A.,2.08,27.98,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+15,BCO DAYCOVAL S.A,2.08,28.05,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+16,BCO BARIGUI INV FIN S/A,2.09,28.1,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+17,BCO DO NORDESTE DO BRASIL S.A.,2.1,28.32,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+18,BCO CACIQUE S.A.,2.1,28.35,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+19,BANCO PAN,2.11,28.45,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+20,BANCO SEMEAR,2.13,28.76,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+21,ITAÚ UNIBANCO BM S.A.,2.13,28.84,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+22,BCO CETELEM S.A.,2.14,28.93,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+23,BCO BS2 S.A.,2.14,28.95,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+24,BCO VOTORANTIM S.A.,2.14,28.95,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+25,MERCANTIL BRASIL FIN S.A. CFI,2.14,28.98,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+26,BCO DO BRASIL S.A.,2.14,28.99,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+27,LECCA CFI S.A.,2.15,29.03,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+28,BCO SANTANDER (BRASIL) S.A.,2.15,29.05,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+29,BCO INDUSTRIAL DO BRASIL S.A.,2.15,29.08,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+30,BCO BRADESCO S.A.,2.17,29.34,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+31,BANCO ITAÚ CONSIGNADO S.A.,2.17,29.35,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
+32,BCO BRADESCO FINANC. S.A.,2.18,29.6,218,2015-02-26,26/02/2015 a 04/03/2015,Crédito consignado INSS,Pré-fixado
